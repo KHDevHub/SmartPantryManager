@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.SmartPantry" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Black and white theme -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#000000</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:textColorSecondary">#444444</item>
+        <item name="android:textColorHint">#777777</item>
+    </style>
+</resources>
